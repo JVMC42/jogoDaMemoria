@@ -1,4 +1,4 @@
-# jogoDaVelhaReact
+# jogoDaMemoriaReact
 
 Projeto feito no curso ProgBR
 <a target="_blank">https://jogo-da-velha-react-jvmc42.vercel.app/</a>
